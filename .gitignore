@@ -1,0 +1,5 @@
+*.xlsx
+/__pycache__/
+*.db
+/tests
+descargar_ift.py
